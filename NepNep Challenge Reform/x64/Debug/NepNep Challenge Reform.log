@@ -1,0 +1,30 @@
+﻿  AES.cpp
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AES.cpp(316,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AES.cpp(372,23): warning C4018: “<”: 有符号/无符号不匹配
+  AntiDebug.cpp
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(49,3): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(50,4): error C2065: “mov”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(50,8): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(50,8): error C2065: “eax”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(51,4): error C2146: 语法错误: 缺少“;”(在标识符“div”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(51,8): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(51,4): warning C4551: 缺少参数列表的函数调用
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(51,8): error C2065: “eax”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(52,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(104,25): error C2065: “CRC”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(105,5): error C3536: “crc”: 初始化之前无法使用
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(155,4): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(156,5): error C2065: “mov”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(156,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(156,9): error C2065: “eax”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(157,5): error C2146: 语法错误: 缺少“;”(在标识符“div”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(157,9): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(157,5): warning C4551: 缺少参数列表的函数调用
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(157,9): error C2065: “eax”: 未声明的标识符
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\AntiDebug.cpp(158,4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  main.cpp
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\main.cpp(46,2): error C2561: “main”: 函数必须返回值
+C:\Users\16694\source\repos\NepNep Challenge Reform\NepNep Challenge Reform\main.cpp(25,5): message : 参见“main”的声明
+  Thread1.cpp
+  Thread2.cpp
+  正在生成代码...
